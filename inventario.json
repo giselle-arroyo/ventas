@@ -31,15 +31,15 @@
                     ""
                 ],
             "media": ["",
-                        "imagenes\Computadoras\Gi-EnfriamietoLiquido-1.jpg",
-                        "imagenes\Computadoras\Gi-PC-1.mp4",
-                        "imagenes\Computadoras\Gi-PC-2.mp4",
-                        "imagenes\Computadoras\Gi-PC-3.jpg",
-                        "imagenes\Computadoras\Gi-PC-4.jpg",
-                        "imagenes\Computadoras\Gi-PC-5.jpg",
-                        "imagenes\Computadoras\Gi-PC-6.jpg",
-                        "imagenes\Computadoras\Gi-Procesador-1.jpg",
-                        "imagenes\Computadoras\Gi-TarjetaMadre-1.jpg"
+                        "imagenes/Computadoras/Gi-EnfriamietoLiquido-1.jpg",
+                        "imagenes/Computadoras/Gi-PC-1.mp4",
+                        "imagenes/Computadoras/Gi-PC-2.mp4",
+                        "imagenes/Computadoras/Gi-PC-3.jpg",
+                        "imagenes/Computadoras/Gi-PC-4.jpg",
+                        "imagenes/Computadoras/Gi-PC-5.jpg",
+                        "imagenes/Computadoras/Gi-PC-6.jpg",
+                        "imagenes/Computadoras/Gi-Procesador-1.jpg",
+                        "imagenes/Computadoras/Gi-TarjetaMadre-1.jpg"
                     ],   
           "precio": 10250
         },
@@ -65,10 +65,10 @@
                             
                             ],
             "url": [""],
-            "media": ["imagenes\Electronica\Adaptador9En1-1.jpg",
-                        "imagenes\Electronica\Adaptador9En1-2.jpg",
-                        "imagenes\Electronica\Adaptador9En1-3.jpg",
-                        "imagenes\Electronica\Adaptador9En1-4.jpg"
+            "media": ["imagenes/Electronica/Adaptador9En1-1.jpg",
+                        "imagenes/Electronica/Adaptador9En1-2.jpg",
+                        "imagenes/Electronica/Adaptador9En1-3.jpg",
+                        "imagenes/Electronica/Adaptador9En1-4.jpg"
                         ],
             "precio": 350
           },
@@ -82,8 +82,8 @@
                                 "Indicador LED para mostrar el estado de la batería."
                             ],
             "url": [""],
-            "media": ["imagenes\Electronica\AppleMagicMouse2-1.jpg",
-                        "imagenes\Electronica\AppleMagicMouse2-2.jpg"
+            "media": ["imagenes/Electronica/AppleMagicMouse2-1.jpg",
+                        "imagenes/Electronica/AppleMagicMouse2-2.jpg"
                         ],
             "precio": 1100
           },
@@ -94,9 +94,9 @@
                             "Input: 5V / 2A, Output: 5W"
                             ],
             "url": [""],
-            "media": ["imagenes\Electronica\cargadorInalambricoSamsung-1.jpg",
-                        "imagenes\Electronica\cargadorInalambricoSamsung-2.jpg",
-                        "imagenes\Electronica\cargadorInalambricoSamsung-3.jpg"
+            "media": ["imagenes/Electronica/cargadorInalambricoSamsung-1.jpg",
+                        "imagenes/Electronica/cargadorInalambricoSamsung-2.jpg",
+                        "imagenes/Electronica/cargadorInalambricoSamsung-3.jpg"
                         ],
             "precio": 100
           },
@@ -108,9 +108,9 @@
                             "Compatible con MacBook Pro (modelos con puertos MagSafe) y MacBook Air (modelos con puertos MagSafe)"
                             ],
             "url": [""],
-            "media": ["imagenes\Electronica\CargadorMagSafe-1.jpg",
-                        "imagenes\Electronica\CargadorMagSafe-2.jpg",
-                        "imagenes\Electronica\CargadorMagSafe-3.jpg"
+            "media": ["imagenes/Electronica/CargadorMagSafe-1.jpg",
+                        "imagenes/Electronica/CargadorMagSafe-2.jpg",
+                        "imagenes/Electronica/CargadorMagSafe-3.jpg"
                         ],
             "precio": 350
           },
@@ -118,9 +118,9 @@
             "nombre": "Adaptador Mini DisplayPort-HDMI 1",
             "descripcion": ["Cable adaptador displayport a HDMI funciona para Macbook como para PC"],
             "url": [""],
-            "media": ["imagenes\Electronica\DisplayPort-HDMI-1-1.jpg",
-                        "imagenes\Electronica\DisplayPort-HDMI-1-2.jpg",
-                        "imagenes\Electronica\DisplayPort-HDMI-1-3.jpg"
+            "media": ["imagenes/Electronica/DisplayPort-HDMI-1-1.jpg",
+                        "imagenes/Electronica/DisplayPort-HDMI-1-2.jpg",
+                        "imagenes/Electronica/DisplayPort-HDMI-1-3.jpg"
                         ],
             "precio": 100
           },
@@ -128,9 +128,9 @@
             "nombre": "Adaptador Mini DisplayPort-HDMI 2",
             "descripcion": ["Cable adaptador displayport a HDMI funciona para Macbook como para PC"],
             "url": [""],
-            "media": ["imagenes\Electronica\DisplayPort-HDMI-1.jpg",
-                        "imagenes\Electronica\DisplayPort-HDMI-2.jpg",
-                        "imagenes\Electronica\DisplayPort-HDMI-3.jpg"
+            "media": ["imagenes/Electronica/DisplayPort-HDMI-1.jpg",
+                        "imagenes/Electronica/DisplayPort-HDMI-2.jpg",
+                        "imagenes/Electronica/DisplayPort-HDMI-3.jpg"
                         ],
             "precio": 100
           },
@@ -138,9 +138,9 @@
             "nombre": "Adaptador Mini Display Port VGA",
             "descripcion": [""],
             "url": [""],
-            "media": ["imagenes\Electronica\DisplayPort-VGA-1-1.jpg",
-                        "imagenes\Electronica\DisplayPort-VGA-1-2.jpg",
-                        "imagenes\Electronica\DisplayPort-VGA-1-3.jpg"
+            "media": ["imagenes/Electronica/DisplayPort-VGA-1-1.jpg",
+                        "imagenes/Electronica/DisplayPort-VGA-1-2.jpg",
+                        "imagenes/Electronica/DisplayPort-VGA-1-3.jpg"
                         ],
             "precio": 100
           },
@@ -148,9 +148,9 @@
             "nombre": "Adaptador Mini Display Port - VGA ",
             "descripcion": [""],
             "url": [""],
-            "media": ["imagenes\Electronica\DisplayPort-VGA-1.jpg",
-                        "imagenes\Electronica\DisplayPort-VGA-2.jpg",
-                        "imagenes\Electronica\DisplayPort-VGA-3.jpg"
+            "media": ["imagenes/Electronica/DisplayPort-VGA-1.jpg",
+                        "imagenes/Electronica/DisplayPort-VGA-2.jpg",
+                        "imagenes/Electronica/DisplayPort-VGA-3.jpg"
                         ],
             "precio": 100
           },
@@ -158,8 +158,8 @@
             "nombre": "Enfriamento Laptop",
             "descripcion": [""],
             "url": [""],
-            "media": ["imagenes\Electronica\EnfriamientoLaptop-1.jpg",
-                        "imagenes\Electronica\EnfriamientoLaptop-2.jpg"
+            "media": ["imagenes/Electronica/EnfriamientoLaptop-1.jpg",
+                        "imagenes/Electronica/EnfriamientoLaptop-2.jpg"
                         ],
             "precio": 150
           },
@@ -167,15 +167,15 @@
             "nombre": "Memoria RAM Samsumg",
             "descripcion": ["Memoria RAM marca Samsung para laptop, son dos memorias de 4gb. 4GB 1Rx 16 PC4- 3200AA- SCO- 11"],
             "url": [""],
-            "media": ["imagenes\Electronica\MemoriaRAMSamsung.jpg"],
+            "media": ["imagenes/Electronica/MemoriaRAMSamsung.jpg"],
             "precio": 350
           },
           {
             "nombre": "Mini Teclado Inalambrico con Touchpad",
             "descripcion": ["Miniteclado inalámbrico i8 2,4G, teclado táctil clásico, negro"],
             "url": [""],
-            "media": ["imagenes\Electronica\MinitecladoinalambricoConTouchpad-1.jpg",
-                        "imagenes\Electronica\MinitecladoinalambricoConTouchpad-2.jpg"
+            "media": ["imagenes/Electronica/MinitecladoinalambricoConTouchpad-1.jpg",
+                        "imagenes/Electronica/MinitecladoinalambricoConTouchpad-2.jpg"
                         ],
             "precio": 30
           },
@@ -183,8 +183,8 @@
             "nombre": "Mini Teclado con Mouse",
             "descripcion": ["Miniteclado inalámbrico Air Mouse H18 +, pantalla táctil completa, 2,4 GHz, QWERTY, panel táctil con función de retroiluminación para Smart TV, PS3"],
             "url": [""],
-            "media": ["imagenes\Electronica\MinitecladoMouse-1.jpg",
-                        "imagenes\Electronica\MinitecladoMouse-2.jpg"
+            "media": ["imagenes/Electronica/MinitecladoMouse-1.jpg",
+                        "imagenes/Electronica/MinitecladoMouse-2.jpg"
                         ],
             "precio": 200
           },
@@ -192,8 +192,8 @@
             "nombre": "Roku Express",
             "descripcion": ["Roku Express Dispositivo de Streaming HD/Compatible con Alexa, Siri y Google"],
             "url": [""],
-            "media": ["imagenes\Electronica\RokuExpress-1.jpg",
-                        "imagenes\Electronica\RokuExpress-2.jpg"
+            "media": ["imagenes/Electronica/RokuExpress-1.jpg",
+                        "imagenes/Electronica/RokuExpress-2.jpg"
                         ],
             "precio": 400
           },
@@ -201,9 +201,9 @@
             "nombre": "Teclado GameFactor Kbg601",
             "descripcion": [""],
             "url": [""],
-            "media": ["imagenes\Electronica\TecladoGameFactorKbg601-1.jpg",
-                        "imagenes\Electronica\TecladoGameFactorKbg601-2.jpg",
-                        "imagenes\Electronica\TecladoGameFactorKbg601-3.jpg"
+            "media": ["imagenes/Electronica/TecladoGameFactorKbg601-1.jpg",
+                        "imagenes/Electronica/TecladoGameFactorKbg601-2.jpg",
+                        "imagenes/Electronica/TecladoGameFactorKbg601-3.jpg"
                         ],
             "precio": 350
           },
@@ -211,8 +211,8 @@
             "nombre": "Teclado Mouse Giroscopio",
             "descripcion": ["Miniteclado inalámbrico de mano con Control remoto por voz, Air Mouse, W3, 2,4G, inglés, para Android, TV BOX, Windows, PC"],
             "url": [""],
-            "media": ["imagenes\Electronica\TecladoMouseGiroscopio-1.jpg",
-                        "imagenes\Electronica\TecladoMouseGiroscopio-2.jpg"
+            "media": ["imagenes/Electronica/TecladoMouseGiroscopio-1.jpg",
+                        "imagenes/Electronica/TecladoMouseGiroscopio-2.jpg"
                         ],
             "precio": 80
           }
@@ -223,12 +223,12 @@
             "nombre": "Micro Player Retro Arcade CONTRA",
             "descripcion": ["My Arcade Contra Micro Player, totalmente jugable, cuenta con obras de arte inspiradas en el gabinete arcade original Contra. Control de volumen y conector para auriculares de 0.138 in. Ideal para cualquier sala de juegos, oficina o vitrina, permite el enlace CO/VS para la acción CO-OP, 6.75 pulgadas coleccionable, pantalla retroiluminada a todo color, batería o micro USB alimentado (DGUNL-3280)."],
             "url": [""],
-            "media": ["imagenes\videoJuegos\MyArcadeContra-1.jpg",
-                        "imagenes\videoJuegos\MyArcadeContra-2.jpg",
-                        "imagenes\videoJuegos\MyArcadeContra-3.jpg",
-                        "imagenes\videoJuegos\MyArcadeContra-4.jpg",
-                        "imagenes\videoJuegos\MyArcadeContra-5.jpg",
-                        "imagenes\videoJuegos\MyArcadeContra-6.jpg"
+            "media": ["imagenes/videoJuegos/MyArcadeContra-1.jpg",
+                        "imagenes/videoJuegos/MyArcadeContra-2.jpg",
+                        "imagenes/videoJuegos/MyArcadeContra-3.jpg",
+                        "imagenes/videoJuegos/MyArcadeContra-4.jpg",
+                        "imagenes/videoJuegos/MyArcadeContra-5.jpg",
+                        "imagenes/videoJuegos/MyArcadeContra-6.jpg"
                         ],
             "precio": 0
           },
@@ -239,8 +239,8 @@
                             "2. El ángulo inferior se puede ajustar por rotación, de modo que los jugadores pueden ajustarse fácilmente a un ángulo cómodo para jugar y mejorar la experiencia de juego móvil."
                             ],
             "url": [""],
-            "media": ["imagenes\videoJuegos\SoporteTeléfonoXboxSeriesXS-1.jpg",
-                        "imagenes\videoJuegos\SoporteTeléfonoXboxSeriesXS-2.jpg"
+            "media": ["imagenes/videoJuegos/SoporteTeléfonoXboxSeriesXS-1.jpg",
+                        "imagenes/videoJuegos/SoporteTeléfonoXboxSeriesXS-2.jpg"
                         ],
             "precio": 30
           }
@@ -250,8 +250,8 @@
             "nombre": "Bloodborne cazador Figma",
             "descripcion": ["Aixlan-figura de Bloodborne de 15cm, modelo coleccionable de PVC Figma The Old Hunters Edition"],
             "url": [""],
-            "media": ["imagenes\Juguetes\FiguraCazador-1.jpg",
-                        "imagenes\Juguetes\FiguraCazador-2.jpg"
+            "media": ["imagenes/Juguetes/FiguraCazador-1.jpg",
+                        "imagenes/Juguetes/FiguraCazador-2.jpg"
                         ],
             "precio": 200
           },
@@ -259,11 +259,11 @@
             "nombre": "Sub-Zero y Scorpion Funko POP!",
             "descripcion": ["3.75 pulgadas (10 cm) Hecho de Vinyl Figura no articulada"],
             "url": [""],
-            "media": ["imagenes\Juguetes\FunkosMortalKombat-1.jpg",
-                        "imagenes\Juguetes\FunkosMortalKombat-2.jpg",
-                        "imagenes\Juguetes\FunkosMortalKombat-3.jpg",
-                        "imagenes\Juguetes\FunkosMortalKombat-4.jpg",
-                        "imagenes\Juguetes\FunkosMortalKombat-5.jpg",
+            "media": ["imagenes/Juguetes/FunkosMortalKombat-1.jpg",
+                        "imagenes/Juguetes/FunkosMortalKombat-2.jpg",
+                        "imagenes/Juguetes/FunkosMortalKombat-3.jpg",
+                        "imagenes/Juguetes/FunkosMortalKombat-4.jpg",
+                        "imagenes/Juguetes/FunkosMortalKombat-5.jpg",
                         ],
             "precio": 400
           },
@@ -273,11 +273,11 @@
                             "Fabricado en plástico."
                             ],
             "url": [""],
-            "media": ["imagenes\Juguetes\GyomeiBandai-1.jpg",
-                        "imagenes\Juguetes\GyomeiBandai-2.jpg",
-                        "imagenes\Juguetes\GyomeiBandai-3.jpg",
-                        "imagenes\Juguetes\GyomeiBandai-4.jpg",
-                        "imagenes\Juguetes\GyomeiBandai-5.jpg"
+            "media": ["imagenes/Juguetes/GyomeiBandai-1.jpg",
+                        "imagenes/Juguetes/GyomeiBandai-2.jpg",
+                        "imagenes/Juguetes/GyomeiBandai-3.jpg",
+                        "imagenes/Juguetes/GyomeiBandai-4.jpg",
+                        "imagenes/Juguetes/GyomeiBandai-5.jpg"
                         ],
             "precio": 600
           },
@@ -285,16 +285,16 @@
             "nombre": "Marvel Legends Series Eternals, Figura de Kro, con Diseño Premium",
             "descripcion": ["Hasbro, Marvel Legends Series Eternals, Figura de Kro, con Diseño Premium y Accesorios, 15 cm, Figura de Acción Coleccionable, Inspirada en los Comics de Marvel."],
             "url": [""],
-            "media": ["imagenes\Juguetes\MarvelLegensKro-1.jpg"],
+            "media": ["imagenes/Juguetes/MarvelLegensKro-1.jpg"],
             "precio": 300
           },
           {
             "nombre": "Figura Muzan Demon Slayer Kimetsu No Yaiba Banpresto",
             "descripcion": ["Figura basada en el personaje Muzan del anime Demon Slayer. Altura aproximada de la figura 17 cm"],
             "url": [""],
-            "media": ["imagenes\Juguetes\MuzanBandai-1.jpg",
-                        "imagenes\Juguetes\MuzanBandai-2.jpg",
-                        "imagenes\Juguetes\MuzanBandai-3.jpg"
+            "media": ["imagenes/Juguetes/MuzanBandai-1.jpg",
+                        "imagenes/Juguetes/MuzanBandai-2.jpg",
+                        "imagenes/Juguetes/MuzanBandai-3.jpg"
                         ],
             "precio": 300
           },
@@ -302,8 +302,8 @@
             "nombre": "Satoru Gojo Jujutsu Kaisen 0 Sega",
             "descripcion": [""],
             "url": [""],
-            "media": ["imagenes\Juguetes\SaturoBandai-1.jpg",
-                        "imagenes\Juguetes\SaturoBandai-2.jpg"
+            "media": ["imagenes/Juguetes/SaturoBandai-1.jpg",
+                        "imagenes/Juguetes/SaturoBandai-2.jpg"
                         ],
             "precio": 600
           },
@@ -315,10 +315,10 @@
                             "No articulado."
                             ],
             "url": [""],
-            "media": ["imagenes\Juguetes\TanjiroBandai-1.jpg",
-                        "imagenes\Juguetes\TanjiroBandai-2.jpg",
-                        "imagenes\Juguetes\TanjiroBandai-3.jpg",
-                        "imagenes\Juguetes\TanjiroBandai-4.jpg"
+            "media": ["imagenes/Juguetes/TanjiroBandai-1.jpg",
+                        "imagenes/Juguetes/TanjiroBandai-2.jpg",
+                        "imagenes/Juguetes/TanjiroBandai-3.jpg",
+                        "imagenes/Juguetes/TanjiroBandai-4.jpg"
                         ],
             "precio": 250
           }
@@ -328,8 +328,8 @@
             "nombre": "Pinzas Para Ponchar",
             "descripcion": ["Pinza Ponchadora Rj45 Rj11 Rj12 3 En 1 Pinzas Crimpadora, Conector Rj45 Cable Red UTP Cat 5e / Cat 6e Transparente, plástico de Alto Impacto"],
             "url": [""],
-            "media": ["imagenes\Herramientas\PinzasPonchar-1.jpg",
-                        "imagenes\Herramientas\PinzasPonchar-2.jpg"
+            "media": ["imagenes/Herramientas/PinzasPonchar-1.jpg",
+                        "imagenes/Herramientas/PinzasPonchar-2.jpg"
                         ],
             "precio": 80
           },
