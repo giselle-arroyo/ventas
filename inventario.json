@@ -1,0 +1,345 @@
+
+{
+    "ventas": {
+      "computadoras": [
+        {
+          "nombre": "Computadora Gamer Corsair",
+          "descripcion": ["Tarjeta Madre Aorus B450 M", 
+                            "AMD Ryzen 5 2600X Six-Core Processor 3.60 GHz", 
+                            "CORSAIR VENGEANCE RGB PRO 16GB", 
+                            "GE Force GTX 1070", 
+                            "Corsair Hydro Series H60 Enfriamiento Liquido para CPU, 1x 120mm, 1700RPM ",
+                            "Disco duro Barracuda 2TB",
+                            "Fuente de poder Seasonic de 650 Watts modular",
+                            "TP-Link Tarjeta WiFi 6 AX3000 PCIe WiFi",
+                            "Kingston SSD A400 480GB",
+                            "Ventilador Cooler Master y Corsair",
+                            "Gabinete Corsair Carbide 275R con Ventana, Midi-Tower, ATX/Micro-ATX/Mini-ITX",
+                            "Soporte tarjeta de video"
+                        ],
+          "url": ["https://www.aorus.com/es-mx/motherboards/B450-AORUS-M-rev-1x/Key-Features", 
+                    "https://www.amazon.com.mx/Procesador-AMD-RYZEN-3-6Ghz-Socket/dp/B07B428V2L", 
+                    "", 
+                    "https://www.nvidia.com/en-gb/geforce/graphics-cards/geforce-gtx-1070/specifications/", 
+                    "https://www.cyberpuerta.mx/Computo-Hardware/Componentes/Enfriamiento-y-Ventilacion/Enfriamiento-Liquido/Corsair-Hydro-Series-H60-Enfriamiento-Liquido-para-CPU-1x-120mm-1700RPM.html",
+                    "https://www.cyberpuerta.mx/index.php?cl=details&anid=75447de8ff5cd3da0a4ea1f219c7476b&utm_source=deliveredwaybill&utm_medium=email&utm_campaign=deliveredwaybill",
+                    "https://ddtech.mx/producto/fuente-de-poder-seasonic-core-tuf-gaming-alliance-650w-80-plus-gold-semi-modular?id=8993",
+                    "https://www.amazon.com.mx/dp/B07ZV2CJL2?ref=cm_sw_r_cso_wa_apin_dp_TS0PCNCXWVJK3PWEZC56&ref_=cm_sw_r_cso_wa_apin_dp_TS0PCNCXWVJK3PWEZC56&social_share=cm_sw_r_cso_wa_apin_dp_TS0PCNCXWVJK3PWEZC56&starsLeft=1&newPreview=1&skipTwisterOG=1",
+                    "https://www.amazon.com.mx/dp/B01N0TQPQB?ref=cm_sw_r_cso_wa_apin_dp_Y0FM0NVFSSS2Q75DCJFY&ref_=cm_sw_r_cso_wa_apin_dp_Y0FM0NVFSSS2Q75DCJFY&social_share=cm_sw_r_cso_wa_apin_dp_Y0FM0NVFSSS2Q75DCJFY&starsLeft=1&newPreview=1&skipTwisterOG=1",
+                    "",
+                    "https://www.cyberpuerta.mx/index.php?cl=details&anid=cf7fdae2177865630084ff30c0be909d&utm_source=deliveredwaybill&utm_medium=email&utm_campaign=deliveredwaybill",
+                    ""
+                ],
+            "media": ["",
+                        "imagenes\Computadoras\Gi-EnfriamietoLiquido-1.jpg",
+                        "imagenes\Computadoras\Gi-PC-1.mp4",
+                        "imagenes\Computadoras\Gi-PC-2.mp4",
+                        "imagenes\Computadoras\Gi-PC-3.jpg",
+                        "imagenes\Computadoras\Gi-PC-4.jpg",
+                        "imagenes\Computadoras\Gi-PC-5.jpg",
+                        "imagenes\Computadoras\Gi-PC-6.jpg",
+                        "imagenes\Computadoras\Gi-Procesador-1.jpg",
+                        "imagenes\Computadoras\Gi-TarjetaMadre-1.jpg"
+                    ],   
+          "precio": 10250
+        },
+        {
+          "nombre": "",
+          "descripcion": [""],
+          "url": [""],
+          "media": [""],
+          "precio": 0
+        }
+      ],
+      "electronica": [
+        {
+            "nombre": "Weikoo Adaptador 9 en 1",
+            "descripcion": ["Puerto de entrada USB - C",
+                            "Puerto salida HDMI",
+                            "2 USB 3.0",
+                            "RJ-45",
+                            "Conector audio",
+                            "VGA",
+                            "Lector tarjetas SD",
+                            "Lector tarjetas TF"
+                            
+                            ],
+            "url": [""],
+            "media": ["imagenes\Electronica\Adaptador9En1-1.jpg",
+                        "imagenes\Electronica\Adaptador9En1-2.jpg",
+                        "imagenes\Electronica\Adaptador9En1-3.jpg",
+                        "imagenes\Electronica\Adaptador9En1-4.jpg"
+                        ],
+            "precio": 350
+          },
+          {
+            "nombre": "Apple Magic Mouse 2",
+            "descripcion": ["Ratón ergonómico y delgado con construcción unibody de aluminio.",
+                                "Superficie multitáctil que permite gestos como deslizar y hacer clic.",
+                                "Conexión inalámbrica Bluetooth.",
+                                "Batería recargable integrada con puerto Lightning para recarga.",
+                                "Sensores ópticos para un seguimiento preciso en diversas superficies.",
+                                "Indicador LED para mostrar el estado de la batería."
+                            ],
+            "url": [""],
+            "media": ["imagenes\Electronica\AppleMagicMouse2-1.jpg",
+                        "imagenes\Electronica\AppleMagicMouse2-2.jpg"
+                        ],
+            "precio": 1100
+          },
+          {
+            "nombre": "Cargador Inalambrico Samsung",
+            "descripcion": ["Dimesiones 0,8 x 7,1 x 7,1 cm; 48 g",
+                            "WPC Qi-Certified 1.1",
+                            "Input: 5V / 2A, Output: 5W"
+                            ],
+            "url": [""],
+            "media": ["imagenes\Electronica\cargadorInalambricoSamsung-1.jpg",
+                        "imagenes\Electronica\cargadorInalambricoSamsung-2.jpg",
+                        "imagenes\Electronica\cargadorInalambricoSamsung-3.jpg"
+                        ],
+            "precio": 100
+          },
+          {
+            "nombre": "Apple Cargador MagSafe",
+            "descripcion": ["Diseñado para ser compatible con MacBook Pro y MacBook Air equipados con puertos MagSafe.",
+                            "Utiliza un conector MagSafe, que se magnetiza y se conecta de forma segura al puerto correspondiente en el MacBook.",
+                            "Incorpora medidas de seguridad para proteger el dispositivo de sobrecargas, sobretensiones y cortocircuitos.",
+                            "Compatible con MacBook Pro (modelos con puertos MagSafe) y MacBook Air (modelos con puertos MagSafe)"
+                            ],
+            "url": [""],
+            "media": ["imagenes\Electronica\CargadorMagSafe-1.jpg",
+                        "imagenes\Electronica\CargadorMagSafe-2.jpg",
+                        "imagenes\Electronica\CargadorMagSafe-3.jpg"
+                        ],
+            "precio": 350
+          },
+          {
+            "nombre": "Adaptador Mini DisplayPort-HDMI 1",
+            "descripcion": ["Cable adaptador displayport a HDMI funciona para Macbook como para PC"],
+            "url": [""],
+            "media": ["imagenes\Electronica\DisplayPort-HDMI-1-1.jpg",
+                        "imagenes\Electronica\DisplayPort-HDMI-1-2.jpg",
+                        "imagenes\Electronica\DisplayPort-HDMI-1-3.jpg"
+                        ],
+            "precio": 100
+          },
+          {
+            "nombre": "Adaptador Mini DisplayPort-HDMI 2",
+            "descripcion": ["Cable adaptador displayport a HDMI funciona para Macbook como para PC"],
+            "url": [""],
+            "media": ["imagenes\Electronica\DisplayPort-HDMI-1.jpg",
+                        "imagenes\Electronica\DisplayPort-HDMI-2.jpg",
+                        "imagenes\Electronica\DisplayPort-HDMI-3.jpg"
+                        ],
+            "precio": 100
+          },
+          {
+            "nombre": "Adaptador Mini Display Port VGA",
+            "descripcion": [""],
+            "url": [""],
+            "media": ["imagenes\Electronica\DisplayPort-VGA-1-1.jpg",
+                        "imagenes\Electronica\DisplayPort-VGA-1-2.jpg",
+                        "imagenes\Electronica\DisplayPort-VGA-1-3.jpg"
+                        ],
+            "precio": 100
+          },
+          {
+            "nombre": "Adaptador Mini Display Port - VGA ",
+            "descripcion": [""],
+            "url": [""],
+            "media": ["imagenes\Electronica\DisplayPort-VGA-1.jpg",
+                        "imagenes\Electronica\DisplayPort-VGA-2.jpg",
+                        "imagenes\Electronica\DisplayPort-VGA-3.jpg"
+                        ],
+            "precio": 100
+          },
+          {
+            "nombre": "Enfriamento Laptop",
+            "descripcion": [""],
+            "url": [""],
+            "media": ["imagenes\Electronica\EnfriamientoLaptop-1.jpg",
+                        "imagenes\Electronica\EnfriamientoLaptop-2.jpg"
+                        ],
+            "precio": 150
+          },
+          {
+            "nombre": "Memoria RAM Samsumg",
+            "descripcion": ["Memoria RAM marca Samsung para laptop, son dos memorias de 4gb. 4GB 1Rx 16 PC4- 3200AA- SCO- 11"],
+            "url": [""],
+            "media": ["imagenes\Electronica\MemoriaRAMSamsung.jpg"],
+            "precio": 350
+          },
+          {
+            "nombre": "Mini Teclado Inalambrico con Touchpad",
+            "descripcion": ["Miniteclado inalámbrico i8 2,4G, teclado táctil clásico, negro"],
+            "url": [""],
+            "media": ["imagenes\Electronica\MinitecladoinalambricoConTouchpad-1.jpg",
+                        "imagenes\Electronica\MinitecladoinalambricoConTouchpad-2.jpg"
+                        ],
+            "precio": 30
+          },
+          {
+            "nombre": "Mini Teclado con Mouse",
+            "descripcion": ["Miniteclado inalámbrico Air Mouse H18 +, pantalla táctil completa, 2,4 GHz, QWERTY, panel táctil con función de retroiluminación para Smart TV, PS3"],
+            "url": [""],
+            "media": ["imagenes\Electronica\MinitecladoMouse-1.jpg",
+                        "imagenes\Electronica\MinitecladoMouse-2.jpg"
+                        ],
+            "precio": 200
+          },
+          {
+            "nombre": "Roku Express",
+            "descripcion": ["Roku Express Dispositivo de Streaming HD/Compatible con Alexa, Siri y Google"],
+            "url": [""],
+            "media": ["imagenes\Electronica\RokuExpress-1.jpg",
+                        "imagenes\Electronica\RokuExpress-2.jpg"
+                        ],
+            "precio": 400
+          },
+          {
+            "nombre": "Teclado GameFactor Kbg601",
+            "descripcion": [""],
+            "url": [""],
+            "media": ["imagenes\Electronica\TecladoGameFactorKbg601-1.jpg",
+                        "imagenes\Electronica\TecladoGameFactorKbg601-2.jpg",
+                        "imagenes\Electronica\TecladoGameFactorKbg601-3.jpg"
+                        ],
+            "precio": 350
+          },
+          {
+            "nombre": "Teclado Mouse Giroscopio",
+            "descripcion": ["Miniteclado inalámbrico de mano con Control remoto por voz, Air Mouse, W3, 2,4G, inglés, para Android, TV BOX, Windows, PC"],
+            "url": [""],
+            "media": ["imagenes\Electronica\TecladoMouseGiroscopio-1.jpg",
+                        "imagenes\Electronica\TecladoMouseGiroscopio-2.jpg"
+                        ],
+            "precio": 80
+          }
+
+      ],
+      "videojuegos": [
+        {
+            "nombre": "Micro Player Retro Arcade CONTRA",
+            "descripcion": ["My Arcade Contra Micro Player, totalmente jugable, cuenta con obras de arte inspiradas en el gabinete arcade original Contra. Control de volumen y conector para auriculares de 0.138 in. Ideal para cualquier sala de juegos, oficina o vitrina, permite el enlace CO/VS para la acción CO-OP, 6.75 pulgadas coleccionable, pantalla retroiluminada a todo color, batería o micro USB alimentado (DGUNL-3280)."],
+            "url": [""],
+            "media": ["imagenes\videoJuegos\MyArcadeContra-1.jpg",
+                        "imagenes\videoJuegos\MyArcadeContra-2.jpg",
+                        "imagenes\videoJuegos\MyArcadeContra-3.jpg",
+                        "imagenes\videoJuegos\MyArcadeContra-4.jpg",
+                        "imagenes\videoJuegos\MyArcadeContra-5.jpg",
+                        "imagenes\videoJuegos\MyArcadeContra-6.jpg"
+                        ],
+            "precio": 0
+          },
+          {
+            "nombre": "Clip para móvil",
+            "descripcion": ["Clip de soporte para teléfono móvil Abrazadera para teléfono celular para Xbox Series X/S Controlador inalámbrico Gamepad con soporte giratorio para teléfono móvil",
+                            "1. Adecuado para Xbox one, one s Xbox/X, Xbox series X/S controlador y teléfonos móviles de varios tamaños.",
+                            "2. El ángulo inferior se puede ajustar por rotación, de modo que los jugadores pueden ajustarse fácilmente a un ángulo cómodo para jugar y mejorar la experiencia de juego móvil."
+                            ],
+            "url": [""],
+            "media": ["imagenes\videoJuegos\SoporteTeléfonoXboxSeriesXS-1.jpg",
+                        "imagenes\videoJuegos\SoporteTeléfonoXboxSeriesXS-2.jpg"
+                        ],
+            "precio": 30
+          }
+      ],
+      "juguetes": [
+        {
+            "nombre": "Bloodborne cazador Figma",
+            "descripcion": ["Aixlan-figura de Bloodborne de 15cm, modelo coleccionable de PVC Figma The Old Hunters Edition"],
+            "url": [""],
+            "media": ["imagenes\Juguetes\FiguraCazador-1.jpg",
+                        "imagenes\Juguetes\FiguraCazador-2.jpg"
+                        ],
+            "precio": 200
+          },
+          {
+            "nombre": "Sub-Zero y Scorpion Funko POP!",
+            "descripcion": ["3.75 pulgadas (10 cm) Hecho de Vinyl Figura no articulada"],
+            "url": [""],
+            "media": ["imagenes\Juguetes\FunkosMortalKombat-1.jpg",
+                        "imagenes\Juguetes\FunkosMortalKombat-2.jpg",
+                        "imagenes\Juguetes\FunkosMortalKombat-3.jpg",
+                        "imagenes\Juguetes\FunkosMortalKombat-4.jpg",
+                        "imagenes\Juguetes\FunkosMortalKombat-5.jpg",
+                        ],
+            "precio": 400
+          },
+          {
+            "nombre": "Good Smile Pop Up Parade: Demon Slayer Kimetsu No Yaiba - Gyomei Himejima",
+            "descripcion": ["Altura aproximada 19 cm.",
+                            "Fabricado en plástico."
+                            ],
+            "url": [""],
+            "media": ["imagenes\Juguetes\GyomeiBandai-1.jpg",
+                        "imagenes\Juguetes\GyomeiBandai-2.jpg",
+                        "imagenes\Juguetes\GyomeiBandai-3.jpg",
+                        "imagenes\Juguetes\GyomeiBandai-4.jpg",
+                        "imagenes\Juguetes\GyomeiBandai-5.jpg"
+                        ],
+            "precio": 600
+          },
+          {
+            "nombre": "Marvel Legends Series Eternals, Figura de Kro, con Diseño Premium",
+            "descripcion": ["Hasbro, Marvel Legends Series Eternals, Figura de Kro, con Diseño Premium y Accesorios, 15 cm, Figura de Acción Coleccionable, Inspirada en los Comics de Marvel."],
+            "url": [""],
+            "media": ["imagenes\Juguetes\MarvelLegensKro-1.jpg"],
+            "precio": 300
+          },
+          {
+            "nombre": "Figura Muzan Demon Slayer Kimetsu No Yaiba Banpresto",
+            "descripcion": ["Figura basada en el personaje Muzan del anime Demon Slayer. Altura aproximada de la figura 17 cm"],
+            "url": [""],
+            "media": ["imagenes\Juguetes\MuzanBandai-1.jpg",
+                        "imagenes\Juguetes\MuzanBandai-2.jpg",
+                        "imagenes\Juguetes\MuzanBandai-3.jpg"
+                        ],
+            "precio": 300
+          },
+          {
+            "nombre": "Satoru Gojo Jujutsu Kaisen 0 Sega",
+            "descripcion": [""],
+            "url": [""],
+            "media": ["imagenes\Juguetes\SaturoBandai-1.jpg",
+                        "imagenes\Juguetes\SaturoBandai-2.jpg"
+                        ],
+            "precio": 600
+          },
+          {
+            "nombre": "Banpresto Tanjiro Kamado Demon Slayer",
+            "descripcion": ["Altura Aproximada de 5.9 Pulgadas (15 cm).",
+                            "Fabricado en PVC.",
+                            "Incluye base.",
+                            "No articulado."
+                            ],
+            "url": [""],
+            "media": ["imagenes\Juguetes\TanjiroBandai-1.jpg",
+                        "imagenes\Juguetes\TanjiroBandai-2.jpg",
+                        "imagenes\Juguetes\TanjiroBandai-3.jpg",
+                        "imagenes\Juguetes\TanjiroBandai-4.jpg"
+                        ],
+            "precio": 250
+          }
+      ],    
+      "herramientas": [
+        {
+            "nombre": "Pinzas Para Ponchar",
+            "descripcion": ["Pinza Ponchadora Rj45 Rj11 Rj12 3 En 1 Pinzas Crimpadora, Conector Rj45 Cable Red UTP Cat 5e / Cat 6e Transparente, plástico de Alto Impacto"],
+            "url": [""],
+            "media": ["imagenes\Herramientas\PinzasPonchar-1.jpg",
+                        "imagenes\Herramientas\PinzasPonchar-2.jpg"
+                        ],
+            "precio": 80
+          },
+          {
+            "nombre": "",
+            "descripcion": [""],
+            "url": [""],
+            "media": [""],
+            "precio": 0
+          }
+    }
+  }
+  
